@@ -3,7 +3,7 @@
 # Created on 2024-03-11
 spring:
   application:
-    name: user-center-backend
+    name: post-center-backend
   # DataSource Config
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver

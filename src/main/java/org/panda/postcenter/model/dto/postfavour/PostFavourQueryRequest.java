@@ -2,8 +2,8 @@ package org.panda.postcenter.model.dto.postfavour;
 
 import java.io.Serializable;
 
-import com.yupi.springbootinit.common.PageRequest;
-import com.yupi.springbootinit.model.dto.post.PostQueryRequest;
+import org.panda.postcenter.common.PageRequest;
+import org.panda.postcenter.model.dto.post.PostQueryRequest;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
@@ -11,8 +11,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 帖子收藏查询请求
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+
  */
 @Data
 @EqualsAndHashCode(callSuper = true)
